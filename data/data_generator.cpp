@@ -1,4 +1,10 @@
-#include <bits/stdc++.h>
+#include <cstdlib>
+#include <ctime>
+#include <fstream>
+#include <iostream>
+#include <string>
+#include <tuple>
+#include <vector>
 #include <cstring>
 #include <fstream>
 #include <unistd.h>
